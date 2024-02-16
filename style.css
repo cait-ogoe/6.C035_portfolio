@@ -32,8 +32,14 @@ h1 {
 	display: grid;
 	grid-template-columns: repeat(auto-fill, minmax(15em, 1fr));
 }
-img {
-	max-width: 100%
+
+#headshot {
+	display: block;
+	margin: auto;
+	width: auto;
+	height: auto;
+	max-width: 40%;
+
 }
 
 form {
